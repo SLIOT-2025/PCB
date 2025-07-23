@@ -45,7 +45,7 @@ The goal is to **design, simulate, and fabricate** reliable and optimized electr
 PCB_and_Circuitry/
 │
 ├── Schematics/           # All circuit diagrams and schematic files
-├── PCB_Layouts/          # PCB design files (.kicad_pcb / .brd)
+├── PCB_Layouts/          # PCB design files 
 ├── Gerber_Files/         # Fabrication-ready Gerber and drill files
 ├── Microcomtroller code/ # ino file for arduino code
 └── Docs/                 # Reference documents and design notes
