@@ -19,9 +19,13 @@ The goal is to **design, simulate, and fabricate** reliable and optimized electr
 ## ✨ **Features**
 
 ✅ **Professional PCB Layouts** – Designed using industry-standard tools
+
 ✅ **Optimized Routing** – Ensures minimal noise and interference
+
 ✅ **Schematics and Documentation** – Clear and detailed circuit explanations
+
 ✅ **Manufacturing-Ready Files** – Includes Gerber, drill, and fabrication outputs
+
 ✅ **Open for Collaboration** – Contributions are welcome!
 
 ---
@@ -43,7 +47,7 @@ PCB_and_Circuitry/
 ├── Schematics/           # All circuit diagrams and schematic files
 ├── PCB_Layouts/          # PCB design files (.kicad_pcb / .brd)
 ├── Gerber_Files/         # Fabrication-ready Gerber and drill files
-├── Simulations/          # LTSpice/Multisim simulation files
+├── Microcomtroller code/ # ino file for arduino code
 └── Docs/                 # Reference documents and design notes
 ```
 
